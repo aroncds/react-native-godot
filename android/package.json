@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-godot@^0.0.1",
+        "scope": null,
+        "escapedName": "react-native-godot",
+        "name": "react-native-godot",
+        "rawSpec": "^0.2.6",
+        "spec": ">=0.2.6 <0.3.0",
+        "type": "range"
+      },
+      "/Users/aroncastrocoelho/projects/slife-customer"
+    ]
+  ],
+  "_from": "react-native-godot@>=0.0.1 <0.2.0",
+  "_id": "react-native-godot@0.0.1",
+  "_inCache": true,
+  "_location": "/react-native-godot",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-godot-0.2.6.tgz_1503710608547_0.6991908475756645"
+  },
+  "_npmUser": {
+    "name": "cssivision",
+    "email": "cssivision@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-godot@^0.0.1",
+    "scope": null,
+    "escapedName": "react-native-godot",
+    "name": "react-native-godot",
+    "rawSpec": "^0.0.1",
+    "spec": ">=0.0.1 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-qrcode/-/react-native-godot-0.0.1.tgz",
+  "_shasum": "dd92f151c118860092af9fa5bc0995f2f9dddb16",
+  "_shrinkwrap": null,
+  "_spec": "react-native-godot@^0.2.6",
+  "_where": "/Users/aroncastrocoelho/projects/slife-customer",
+  "author": {
+    "name": "Aron",
+    "email": "aron.castro.coelho@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cssivision/react-native-godot/issues"
+  },
+  "dependencies": {},
+  "description": "react-native qrocode generator",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "dd92f151c118860092af9fa5bc0995f2f9dddb16",
+    "tarball": "https://registry.npmjs.org/react-native-qrcode/-/react-native-qrcode-0.2.6.tgz"
+  },
+  "gitHead": "34dbd556092d85fd3e9244432cfc6e5ac62d25cd",
+  "homepage": "https://github.com/aroncds/react-native-godot#readme",
+  "keywords": [
+    "react-native",
+    "godot"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Aron",
+      "email": "aron.castro.coelho@gmail.com"
+    }
+  ],
+  "name": "react-native-godot",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aroncds/react-native-godot.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
